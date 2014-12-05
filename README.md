@@ -6,7 +6,7 @@ Compiler Principles Project 2
 ### Small-C => LLVM
 
 * Small-C: A primitive C-like language.
-* LLVM: See [llvm.org](llvm.org).
+* LLVM: See [llvm.org](http://llvm.org).
 
 ---
 Wang,Steven(Tianze)
