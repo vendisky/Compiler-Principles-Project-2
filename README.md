@@ -9,6 +9,6 @@ Compiler Principles Project 2
 * LLVM: See [llvm.org](http://llvm.org).
 
 ---
-Wang,Steven(Tianze)
+Tianze Wang
 
 vendisky@gmail.com
