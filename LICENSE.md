@@ -1,10 +1,10 @@
-Copyright 2014 by Steven Wang
+Copyright 2014 by Tianze Wang
 
 If you link the page, please note linkage: https://github.com/vendisky/Compiler-Principles-Project-2
 
 Thanks!
 
 ---
-Wang, Steven(Tianze)
+Tianze Wang
 
 vendisky@gmail.com
